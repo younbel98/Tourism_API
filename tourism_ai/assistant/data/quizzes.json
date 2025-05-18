@@ -1,0 +1,272 @@
+{
+  "Mountain": {
+    "questions": [
+      {
+        "question": {
+          "en": "Why are mountains important?",
+          "fr": "Pourquoi les montagnes sont-elles importantes ?",
+          "ar": "لماذا الجبال مهمة؟"
+        },
+        "options": {
+          "en": [
+            "They provide gold",
+            "They store water",
+            "They are flat"
+          ],
+          "fr": [
+            "Elles fournissent de l'or",
+            "Elles stockent de l'eau",
+            "Elles sont plates"
+          ],
+          "ar": [
+            "توفر الذهب",
+            "تخزن المياه",
+            "هي مسطحة"
+          ]
+        },
+        "answer_index": 1
+      },
+      {
+        "question": {
+          "en": "Which animals are often found in mountain ecosystems?",
+          "fr": "Quels animaux trouve-t-on souvent dans les écosystèmes montagneux ?",
+          "ar": "ما هي الحيوانات التي توجد غالبًا في النظم البيئية الجبلية؟"
+        },
+        "options": {
+          "en": [
+            "Snow leopards",
+            "Sharks",
+            "Camels"
+          ],
+          "fr": [
+            "Léopards des neiges",
+            "Requins",
+            "Chameaux"
+          ],
+          "ar": [
+            "نمور الثلج",
+            "أسماك القرش",
+            "الجمال"
+          ]
+        },
+        "answer_index": 0
+      }
+    ]
+  },
+  "Forest": {
+    "questions": [
+      {
+        "question": {
+          "en": "What role do forests play in the ecosystem?",
+          "fr": "Quel rôle jouent les forêts dans l'écosystème ?",
+          "ar": "ما هو دور الغابات في النظام البيئي؟"
+        },
+        "options": {
+          "en": [
+            "Provide shelter for animals",
+            "Create deserts",
+            "Stop rainfall"
+          ],
+          "fr": [
+            "Fournissent un abri aux animaux",
+            "Créent des déserts",
+            "Empêchent les pluies"
+          ],
+          "ar": [
+            "توفر مأوى للحيوانات",
+            "تخلق الصحارى",
+            "توقف سقوط الأمطار"
+          ]
+        },
+        "answer_index": 0
+      },
+      {
+        "question": {
+          "en": "Which of the following is a common threat to forests?",
+          "fr": "Quelle est une menace courante pour les forêts ?",
+          "ar": "ما هو أحد التهديدات الشائعة للغابات؟"
+        },
+        "options": {
+          "en": [
+            "Deforestation",
+            "Ocean currents",
+            "Volcanic eruptions"
+          ],
+          "fr": [
+            "Déforestation",
+            "Courants océaniques",
+            "Éruptions volcaniques"
+          ],
+          "ar": [
+            "إزالة الغابات",
+            "التيارات البحرية",
+            "الثورات البركانية"
+          ]
+        },
+        "answer_index": 0
+      }
+    ]
+  },
+  "Desert": {
+    "questions": [
+      {
+        "question": {
+          "en": "Why is it important to protect desert ecosystems?",
+          "fr": "Pourquoi est-il important de protéger les écosystèmes désertiques ?",
+          "ar": "لماذا من المهم حماية النظم البيئية الصحراوية؟"
+        },
+        "options": {
+          "en": [
+            "They support unique life",
+            "They have no life",
+            "They cause rain"
+          ],
+          "fr": [
+            "Ils abritent une vie unique",
+            "Ils sont sans vie",
+            "Ils provoquent la pluie"
+          ],
+          "ar": [
+            "تدعم حياة فريدة",
+            "لا تحتوي على حياة",
+            "تسبب المطر"
+          ]
+        },
+        "answer_index": 0
+      },
+      {
+        "question": {
+          "en": "What is a common plant found in deserts?",
+          "fr": "Quelle est une plante commune dans les déserts ?",
+          "ar": "ما هو النبات الشائع في الصحارى؟"
+        },
+        "options": {
+          "en": [
+            "Cactus",
+            "Oak tree",
+            "Seaweed"
+          ],
+          "fr": [
+            "Cactus",
+            "Chêne",
+            "Algue"
+          ],
+          "ar": [
+            "الصبار",
+            "بلوط",
+            "طحالب"
+          ]
+        },
+        "answer_index": 0
+      }
+    ]
+  },
+  "Coast": {
+    "questions": [
+      {
+        "question": {
+          "en": "How do coasts help protect the land?",
+          "fr": "Comment les côtes protègent-elles la terre ?",
+          "ar": "كيف تساعد السواحل في حماية اليابسة؟"
+        },
+        "options": {
+          "en": [
+            "Absorb wave energy",
+            "Raise mountains",
+            "Cause erosion"
+          ],
+          "fr": [
+            "Absorbent l'énergie des vagues",
+            "Élèvent des montagnes",
+            "Causent l'érosion"
+          ],
+          "ar": [
+            "تمتص طاقة الأمواج",
+            "ترفع الجبال",
+            "تسبب التعرية"
+          ]
+        },
+        "answer_index": 0
+      },
+      {
+        "question": {
+          "en": "Which activity can damage coastal ecosystems?",
+          "fr": "Quelle activité peut endommager les écosystèmes côtiers ?",
+          "ar": "ما هو النشاط الذي قد يضر بالنظم البيئية الساحلية؟"
+        },
+        "options": {
+          "en": [
+            "Oil spills",
+            "Fishing responsibly",
+            "Recycling"
+          ],
+          "fr": [
+            "Marées noires",
+            "Pêche responsable",
+            "Recyclage"
+          ],
+          "ar": [
+            "تسربات النفط",
+            "الصيد المسؤول",
+            "إعادة التدوير"
+          ]
+        },
+        "answer_index": 0
+      }
+    ]
+  },
+  "Wetland": {
+    "questions": [
+      {
+        "question": {
+          "en": "What is a key benefit of wetlands?",
+          "fr": "Quel est un avantage clé des zones humides ?",
+          "ar": "ما هي فائدة رئيسية للأراضي الرطبة؟"
+        },
+        "options": {
+          "en": [
+            "Filter water",
+            "Create drought",
+            "Stop fish from breeding"
+          ],
+          "fr": [
+            "Filtrent l'eau",
+            "Créent la sécheresse",
+            "Empêchent la reproduction des poissons"
+          ],
+          "ar": [
+            "تنقي المياه",
+            "تسبب الجفاف",
+            "تمنع تكاثر الأسماك"
+          ]
+        },
+        "answer_index": 0
+      },
+      {
+        "question": {
+          "en": "Which species often live in wetlands?",
+          "fr": "Quelles espèces vivent souvent dans les zones humides ?",
+          "ar": "ما هي الأنواع التي تعيش غالبًا في الأراضي الرطبة؟"
+        },
+        "options": {
+          "en": [
+            "Frogs",
+            "Polar bears",
+            "Kangaroos"
+          ],
+          "fr": [
+            "Grenouilles",
+            "Ours polaires",
+            "Kangourous"
+          ],
+          "ar": [
+            "الضفادع",
+            "الدببة القطبية",
+            "الكنغر"
+          ]
+        },
+        "answer_index": 0
+      }
+    ]
+  }
+}

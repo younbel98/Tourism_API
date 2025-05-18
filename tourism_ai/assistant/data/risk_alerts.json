@@ -1,0 +1,22 @@
+{
+  "general": {
+    "en": "Please stay on the marked trails.",
+    "fr": "Veuillez rester sur les sentiers balisés.",
+    "ar": "يرجى البقاء على المسارات المحددة."
+  },
+  "littering": {
+    "en": "Do not litter. Respect nature.",
+    "fr": "Ne jetez pas de déchets. Respectez la nature.",
+    "ar": "لا ترمِ النفايات. احترم الطبيعة."
+  },
+  "off_path": {
+    "en": "You are leaving the designated area.",
+    "fr": "Vous quittez la zone désignée.",
+    "ar": "أنت تغادر المنطقة المخصصة."
+  },
+  "disturbing_wildlife": {
+    "en": "Avoid disturbing wildlife. Stay quiet.",
+    "fr": "Évitez de déranger la faune. Restez silencieux.",
+    "ar": "تجنب إزعاج الحياة البرية. التزم الهدوء."
+  }
+}

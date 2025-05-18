@@ -1,0 +1,28 @@
+{
+  "eco_explorer": {
+    "condition": "visit_5_sites",
+    "label": {
+      "en": "Eco Explorer",
+      "fr": "Explorateur Écolo",
+      "ar": "مستكشف بيئي"
+    },
+    "description": {
+      "en": "Visit 5 different natural sites.",
+      "fr": "Visitez 5 sites naturels différents.",
+      "ar": "قم بزيارة 5 مواقع طبيعية مختلفة."
+    }
+  },
+  "green_guardian": {
+    "condition": "score_100_quiz",
+    "label": {
+      "en": "Green Guardian",
+      "fr": "Gardien Vert",
+      "ar": "حارس البيئة"
+    },
+    "description": {
+      "en": "Score 100% on any eco quiz.",
+      "fr": "Obtenez 100 % à un quiz écologique.",
+      "ar": "احصل على 100٪ في أي اختبار بيئي."
+    }
+  }
+}
